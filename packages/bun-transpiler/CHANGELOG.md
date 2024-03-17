@@ -1,5 +1,13 @@
 # @hono/bun-transpiler
 
+## 0.2.0
+
+### Minor Changes
+
+- [`c8831571e52eb0cbef85c9242bb74b6b7e2d40a6`](https://github.com/honojs/middleware/commit/c8831571e52eb0cbef85c9242bb74b6b7e2d40a6) Thanks [@floriankapaun](https://github.com/floriankapaun)! - Fix: Apply headers when using serveStatic middleware; Improvement: Make options optional;
+
+- [`4d950842125992c4f581576ddf034a96d690a7f5`](https://github.com/honojs/middleware/commit/4d950842125992c4f581576ddf034a96d690a7f5) Thanks [@floriankapaun](https://github.com/floriankapaun)! - Export defaultOptions
+
 ## 0.1.0
 
 ### Minor Changes
